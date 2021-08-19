@@ -23,6 +23,7 @@
         font-family: "Roboto", sans-serif;
         box-sizing: border-box;
         overflow-y: hidden;
+        background-color:#FFF !important;
       }
 
       #map-container button {
