@@ -720,7 +720,7 @@
         "ChIJgeNlZ0t19YgRHseqt4C59iY": {
           key: "bcc2b96f-24f0-4062-bdbd-51ebad31ee91",
           calendarId: "EPFo9hi9M6IYuhYn1Pmu", // Roswell,
-          bookingURL: "#howmodal",
+          bookingURL: "#RIGHTMODAL",
           SourceLocationURL: "https://wordpress-532884-1945670.cloudwaysapps.com/locations/personal-trainer-in-roswell-ga/"
           // bookingURL: "https://fitsndr.com/widget/appointment/roswell/getstarted"
         },
