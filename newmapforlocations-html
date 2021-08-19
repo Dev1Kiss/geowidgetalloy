@@ -283,6 +283,11 @@
         margin-top: auto;
         margin-bottom: auto;
       }
+      
+      .address{
+      color:#000 !important;}
+      
+      
     </style>
     <script>
       'use strict';
