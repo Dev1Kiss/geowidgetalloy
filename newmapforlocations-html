@@ -711,7 +711,7 @@
         "ChIJgeNlZ0t19YgRHseqt4C59iY": {
           key: "bcc2b96f-24f0-4062-bdbd-51ebad31ee91",
           calendarId: "EPFo9hi9M6IYuhYn1Pmu", // Roswell,
-          bookingURL: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE0MTQzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+          bookingURL: "#howmodal"
         },
   
       }
