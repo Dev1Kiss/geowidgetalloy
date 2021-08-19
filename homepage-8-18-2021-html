@@ -722,14 +722,14 @@
         "ChIJgeNlZ0t19YgRHseqt4C59iY": {
           key: "bcc2b96f-24f0-4062-bdbd-51ebad31ee91",
           calendarId: "EPFo9hi9M6IYuhYn1Pmu", // Roswell,
-          bookingURL: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE0MTQzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+          bookingURL: "#howmodal",
           SourceLocationURL: "https://wordpress-532884-1945670.cloudwaysapps.com/locations/personal-trainer-in-roswell-ga/"
           // bookingURL: "https://fitsndr.com/widget/appointment/roswell/getstarted"
         },
         "ChIJ4cUx8j3iUogRZZFSQQf1rtQ": {
           key: "d5c90257-d958-4b05-8771-e48e509f3898",
           calendarId: "VZ7rwUSvSLNGgKdTyoXQ", // Summerfield
-          bookingURL: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE0Mjg1IiwidG9nZ2xlIjpmYWxzZX0%3D",
+          bookingURL: "#howmodal",
           SourceLocationURL: "https://wordpress-532884-1945670.cloudwaysapps.com/locations/personal-trainer-in-summerfield-nc/"
           // bookingURL: "https://fitsndr.com/widget/appointment/sp1/sp"
         },
@@ -737,7 +737,7 @@
           key: "62ec3e29-04c2-41c2-99c2-73a7b49e2561",
           calendarId: "KDRVrAWDIakoksqexEn4", // Charlotte
           // bookingURL: "https://fitsndr.com/widget/appointment/spcal/sp2"
-          bookingURL: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE0MjkxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+          bookingURL: "#howmodal",
           SourceLocationURL: "https://wordpress-532884-1945670.cloudwaysapps.com/locations/personal-trainer-in-charlotte-nc/"
         }
       }
